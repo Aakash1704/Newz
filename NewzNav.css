@@ -1,0 +1,45 @@
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    }
+.navTD{
+    width: 100vw;
+}
+.navUL{
+    width: 100%;
+}
+
+.navLi{
+width: 25%;
+width: 25%;
+width: 25%;
+width: 25%;
+}
+.zNav{
+    z-index: 100;
+    background-image: url("../backGround.jpg");
+    background-size: 100% 100%;
+}
+.sizedBox{
+    height:30vh;
+    width: 100%;
+  }
+  .grad-bar {
+    width: 100%;
+    height: 5px;
+    background: linear-gradient( #1156B2, #ffff, #1156B2, #ffff  );
+    background-size: 400% 400%;
+  }
+  .tagLine{
+    font-family: Snell Roundhand, "cursive";
+    font-style: italic;
+    font-size:1.8em;
+    color: rgb(37,105,141);
+  }
+  .decoration{
+    color: rgb(37,105,141);
+  }
+  .nav-item{
+cursor: pointer;
+  }
